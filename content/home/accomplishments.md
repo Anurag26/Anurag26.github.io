@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Pro"
+title = "Projects"
 subtitle = ""
 
 # Date format
@@ -46,4 +46,4 @@ date_format = "Jan 2006"
   url = "https://github.com/Anurag26/vikify_mvp"
   date_start = "2019-01-01"
   date_end = "2019-05-01"
-+++
+  +++
