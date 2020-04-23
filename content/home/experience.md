@@ -25,9 +25,6 @@ date_format = "Jan 2006"
   date_start = "2020-05-04"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  """
 
 [[experience]]
   title = "Software Engineering Intern"
@@ -37,15 +34,13 @@ date_format = "Jan 2006"
   date_start = "2018-08-08"
   date_end = "2018-11-11"
   
-  """
-  
-  [[experience]]
-    title = "Software Engineering Intern"
-    company = "Kodebay"
-    company_url = ""
-    location = "Bangalore, India"
-    date_start = "2017-10-12"
-    date_end = "2018-08-10"
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Kodebay"
+  company_url = ""
+  location = "Bangalore, India"
+  date_start = "2017-10-12"
+  date_end = "2018-08-10"
   
 
 +++
