@@ -9,11 +9,13 @@ weight = 90  # Order that this section will appear.
 
 title = "Publications"
 subtitle = ""
-date_format = "Jan 2006"
 
 [[item]]
-  organization = "Autonomous UGV Delivery Systems"
-  title = "Anurag Bannur, Krishna Koundinya, Karthik Sharath Kumar, Akshay T Rao"
-  url = "https://ieeexplore.ieee.org/abstract/document/9031017"
-  
+  organization = "CodeBook"
+  title = "A social media application built using the MERN stack"
+  url = "https://cs5610-wbdv-client-gp32.herokuapp.com/codebook-client"
+  date_start = "2020-01-31"
+  date_end = "2020-04-21"
+
+
 +++
