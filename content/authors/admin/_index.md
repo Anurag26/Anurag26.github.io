@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anurag Bannur
+title: ######Anurag Bannur
 
 # Username (this should match the folder name)
 authors:
