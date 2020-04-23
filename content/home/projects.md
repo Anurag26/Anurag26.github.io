@@ -1,11 +1,11 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Projec"
+title = "Projects"
 subtitle = ""
 
 date_format = "Jan 2006"
