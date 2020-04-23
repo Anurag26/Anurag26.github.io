@@ -27,16 +27,16 @@ date_format = "Jan 2006"
  
 
 #[[item]]
-  organization = "AUGV"
-  title = "Backend and the Mobile Application of Autonomous Unmanned Ground Vehicle"
-  url = "https://github.com/Anurag26/vikify_mvp"
-  date_start = "2019-01-01"
-  date_end = "2019-05-01"
+  #organization = "AUGV"
+  #title = "Backend and the Mobile Application of Autonomous Unmanned Ground Vehicle"
+  #url = "https://github.com/Anurag26/vikify_mvp"
+  #date_start = "2019-01-01"
+  #date_end = "2019-05-01"
   
 #[[item]]
-  organization = "CodeBook"
-  title = "A social media application built using the MERN stack"
-  url = "https://cs5610-wbdv-client-gp32.herokuapp.com/codebook-client"
-  date_start = "2020-01-31"
-  date_end = "2020-04-21"
+  #organization = "CodeBook"
+  #title = "A social media application built using the MERN stack"
+  #url = "https://cs5610-wbdv-client-gp32.herokuapp.com/codebook-client"
+  #date_start = "2020-01-31"
+  #date_end = "2020-04-21"
 +++
