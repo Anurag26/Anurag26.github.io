@@ -19,33 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "Vikify"
+  title = "Vikify Mobile Application"
+  url = "https://github.com/Anurag26/vikify_mvp"
+  date_start = "2018-08-08"
+  date_end = "2018-11-11"
+ 
 
-#[[item]]
- # organization = "edX"
-  #organization_url = "https://www.edx.org"
-  #title = "Blockchain Fundamentals"
-  #url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  #certificate_url = "https://www.edx.org"
-  #date_start = "2018-03-01"
-  #date_end = ""
-  #description = "Formulated informed blockchain models, hypotheses, and use cases."
+[[item]]
+  organization = "AUGV"
+  title = "Backend and the Mobile Application of Autonomous Unmanned Ground Vehicle"
+  url = "https://github.com/Anurag26/vikify_mvp"
+  date_start = "2019-01-01"
+  date_end = "2019-05-01"
   
-#[[item]]
-#  organization = "DataCamp"
- # organization_url = "https://www.datacamp.com"
-  #title = "Object-Oriented Programming in R: S3 and R6 Course"
-  #url = ""
-  #certificate_url = "https://www.datacamp.com"
-  #date_start = "2017-07-01"
-  #date_end = "2017-12-21"
-  #description = ""
-
+[[item]]
+  organization = "CodeBook"
+  title = "A social media application built using the MERN stack"
+  url = "https://cs5610-wbdv-client-gp32.herokuapp.com/codebook-client"
+  date_start = "2020-01-31"
+  date_end = "2020-04-21"
 +++
